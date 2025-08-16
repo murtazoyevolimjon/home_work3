@@ -1,0 +1,66 @@
+nav a {
+  text-decoration: none;
+  color: black;
+  margin-left: 15px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.join-btn {
+  background-color: blue;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+.word1 {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+}
+
+.box-text {
+  border: 2px solid black;
+  padding: 8px 12px;
+  display: inline-block;
+  color: blue;
+  background: white;
+}
+
+h3, h1, h2 {
+  text-align: center; 
+}
+
+.course-box, .course-box2, .course-box3 {
+  border: 2px solid aliceblue;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 4px;
+  width: 220px;
+  margin: 10px;
+  text-align: center;
+}
+
+.course-box img, .course-box2 img, .course-box3 img {
+  width: 100%;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.course-box3 {
+  background-color: blue;
+  color: white;
+}
+
+.hero {
+  background-color: darkslateblue;
+  padding: 50px 0;
+  color: white;
+  text-align: center;
+}
